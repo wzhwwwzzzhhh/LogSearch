@@ -45,3 +45,7 @@ logs/
 
 # Elasticsearch data (if any)
 data/elasticsearch/
+
+# Test output files
+scripts/batch-test-log.txt
+scripts/batch-test-report.json
